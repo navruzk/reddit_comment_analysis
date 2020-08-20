@@ -1,1 +1,1 @@
-# rc_analysis_spark
+# Reddit Comment analysis using spark
