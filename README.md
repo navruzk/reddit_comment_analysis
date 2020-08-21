@@ -9,7 +9,7 @@ That is why the data size that we use to analyze will be limited.
 
 ### Prerequisites
 
-Read databricks environment.
+Ready databricks environment.
 
 ### Installing
 
