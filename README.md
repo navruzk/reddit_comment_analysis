@@ -13,7 +13,7 @@ Ready databricks environment.
 
 ### Installing
 
-All required libraries can be downloaded from inside of the notebook.
+All required libraries can be downloaded from the notebook.
 
 ## Authors
 
