@@ -1,6 +1,6 @@
 # Reddit Comments analysis
 
-This repo shows how to download, process and make simple analysis of Reddit comments in databricks notebook environment using pyspark.
+This repo shows how to download, process and run simple ML models of Reddit comments in databricks notebook environment using pyspark.
 
 ## Getting Started
 
