@@ -1,4 +1,4 @@
-# Reddit Comments analysis
+# Reddit Comments classification
 
 This repo shows how to download, process and run simple ML models of Reddit comments in databricks notebook environment using pyspark.
 
